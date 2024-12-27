@@ -30,7 +30,7 @@
                 android:id="@+id/buttonSearch"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:background="@drawable/search_movies" />
+                android:background="@drawable/search_movie" />
         </LinearLayout>
         <Button
             android:id="@+id/buttonAction"
